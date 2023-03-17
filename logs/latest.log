@@ -1,0 +1,145 @@
+[21:29:16] [main/INFO]: Loading Minecraft 1.19.2 with Fabric Loader 0.14.17
+[21:29:17] [main/INFO]: Loading 61 mods:
+	- brewery 0.2.3+1.19.2
+	   |-- fabric-permissions-api-v0 0.1-SNAPSHOT
+	   |-- hologram-api 0.2.2+1.19
+	   |-- more_codecs 0.2.2+1.18
+	   |-- net_objecthunter_exp4j 0.4.8
+	   |-- placeholder-api 2.0.0-pre.1+1.19.2
+	   |-- polymer 0.2.18+1.19.2
+	   |    |-- packet_tweaker 0.3.0+1.18.2
+	   |    \-- polymer-registry-sync-manipulator 0.0.3+1.19.2
+	   |-- server_translations_api 1.4.18+1.19.2
+	   |    \-- packet_tweaker 0.3.0+1.18.2
+	   \-- sgui 1.1.5+1.19.1
+	- fabric-api 0.75.1+1.19.2
+	   |-- fabric-api-base 0.4.15+8f4e8eb390
+	   |-- fabric-api-lookup-api-v1 1.6.14+93d8cb8290
+	   |-- fabric-biome-api-v1 9.1.0+82db024a90
+	   |-- fabric-block-api-v1 1.0.2+e415d50e90
+	   |-- fabric-blockrenderlayer-v1 1.1.25+cafc6e8e90
+	   |-- fabric-client-tags-api-v1 1.0.5+b35fea8390
+	   |-- fabric-command-api-v1 1.2.16+f71b366f90
+	   |-- fabric-command-api-v2 2.2.1+413cbbc790
+	   |-- fabric-commands-v0 0.2.33+df3654b390
+	   |-- fabric-containers-v0 0.1.41+df3654b390
+	   |-- fabric-content-registries-v0 3.5.1+7c6cd14d90
+	   |-- fabric-convention-tags-v1 1.2.2+27265b3490
+	   |-- fabric-crash-report-info-v1 0.2.8+aeb40ebe90
+	   |-- fabric-data-generation-api-v1 5.3.7+413cbbc790
+	   |-- fabric-dimensions-v1 2.1.35+0d0f210290
+	   |-- fabric-entity-events-v1 1.5.4+9244241690
+	   |-- fabric-events-interaction-v0 0.4.34+562bff6e90
+	   |-- fabric-events-lifecycle-v0 0.2.35+df3654b390
+	   |-- fabric-game-rule-api-v1 1.0.24+b6b6abb490
+	   |-- fabric-item-api-v1 1.6.5+dce4603e90
+	   |-- fabric-item-groups-v0 0.3.38+9244241690
+	   |-- fabric-key-binding-api-v1 1.0.25+5c4fce2890
+	   |-- fabric-keybindings-v0 0.2.23+df3654b390
+	   |-- fabric-lifecycle-events-v1 2.2.4+1b46dc7890
+	   |-- fabric-loot-api-v2 1.1.12+83a8659290
+	   |-- fabric-loot-tables-v1 1.1.15+9e7660c690
+	   |-- fabric-message-api-v1 5.0.7+93d8cb8290
+	   |-- fabric-mining-level-api-v1 2.1.23+33fbc73890
+	   |-- fabric-models-v0 0.3.21+c6af733c90
+	   |-- fabric-networking-api-v1 1.2.11+10eb22f490
+	   |-- fabric-networking-v0 0.3.28+df3654b390
+	   |-- fabric-object-builder-api-v1 4.2.1+d8ef690890
+	   |-- fabric-particles-v1 1.0.14+4d0d570390
+	   |-- fabric-recipe-api-v1 1.0.1+413cbbc790
+	   |-- fabric-registry-sync-v0 0.9.32+9244241690
+	   |-- fabric-renderer-api-v1 1.2.1+1adbf27790
+	   |-- fabric-renderer-indigo 0.8.0+1adbf27790
+	   |-- fabric-renderer-registries-v1 3.2.24+df3654b390
+	   |-- fabric-rendering-data-attachment-v1 0.3.19+6e0787e690
+	   |-- fabric-rendering-fluids-v1 3.0.11+4d0d570390
+	   |-- fabric-rendering-v0 1.1.27+df3654b390
+	   |-- fabric-rendering-v1 1.12.1+d8ef690890
+	   |-- fabric-resource-conditions-api-v1 2.1.2+aae9039d90
+	   |-- fabric-resource-loader-v0 0.8.3+251d254a90
+	   |-- fabric-screen-api-v1 1.0.32+4d0d570390
+	   |-- fabric-screen-handler-api-v1 1.3.7+1cc24b1b90
+	   |-- fabric-sound-api-v1 1.0.2+c4f28df590
+	   |-- fabric-textures-v0 1.0.24+aeb40ebe90
+	   |-- fabric-transfer-api-v1 2.1.6+413cbbc790
+	   \-- fabric-transitive-access-wideners-v1 1.3.3+08b73de490
+	- fabricloader 0.14.17
+	- fabrictailor 2.0.1
+	   |-- config2brigadier 1.2.1
+	   \-- fabric-permissions-api-v0 0.1-SNAPSHOT
+	- fabsit 1.5.3+1.19
+	   \-- fabric-permissions-api-v0 0.1-SNAPSHOT
+	- java 19
+	- midnightlib 1.0.0
+	- minecraft 1.19.2
+	- repurposed_structures 6.3.16+1.19.2
+	- t_and_t 1.10
+	   \-- blue_endless_jankson 1.2.1
+	- universal-graves 2.1.3+1.19.2
+	   |-- common-protection-api 1.0.0
+	   |-- fabric-permissions-api-v0 0.1-SNAPSHOT
+	   |-- hologram-api 0.2.2+1.19
+	   |-- placeholder-api 2.0.0-pre.1+1.19.2
+	   |-- server_translations_api 1.4.18+1.19.2
+	   |    \-- packet_tweaker 0.3.0+1.18.2
+	   \-- sgui 1.1.5+1.19.1
+[21:29:17] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/D:/games/servers/1.19.2.fabric/libraries/net/fabricmc/sponge-mixin/0.12.4+mixin.0.8.5/sponge-mixin-0.12.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[21:29:17] [main/INFO]: Compatibility level set to JAVA_17
+[21:29:28] [main/INFO]: Building unoptimized datafixer
+[21:29:32] [main/INFO]: Loaded C2B lib.
+[21:29:32] [main/INFO]: FabSit loaded
+[21:29:33] [main/INFO]: Loading Towns and Towers!
+[21:29:33] [main/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[21:29:34] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:29:37] [main/INFO]: Loaded 7 recipes
+[21:29:37] [main/INFO]: Loaded 1199 advancements
+[21:29:37] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 5572 translation keys
+[21:29:38] [main/INFO]: Applied 166 biome modifications to 62 of 63 new biomes in 20.14 ms
+[21:29:39] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[21:29:39] [Server thread/INFO]: Loading properties
+[21:29:39] [Server thread/INFO]: Default game type: SURVIVAL
+[21:29:39] [Server thread/INFO]: Generating keypair
+[21:29:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:29:39] [Server thread/INFO]: Using default channel type
+[21:29:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:29:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:29:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:29:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:29:39] [Server thread/INFO]: Preparing level "world"
+[21:29:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:29:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:29:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:29:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:29:41] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:29:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:29:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:29:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:29:43] [Worker-Main-3/INFO]: Preparing spawn area: 1%
+[21:29:44] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[21:29:44] [Worker-Main-3/INFO]: Preparing spawn area: 1%
+[21:29:45] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[21:29:45] [Worker-Main-5/INFO]: Preparing spawn area: 14%
+[21:29:46] [Worker-Main-5/INFO]: Preparing spawn area: 20%
+[21:29:46] [Worker-Main-1/INFO]: Preparing spawn area: 20%
+[21:29:47] [Worker-Main-1/INFO]: Preparing spawn area: 24%
+[21:29:47] [Worker-Main-3/INFO]: Preparing spawn area: 41%
+[21:29:48] [Worker-Main-2/INFO]: Preparing spawn area: 64%
+[21:29:48] [Worker-Main-1/INFO]: Preparing spawn area: 82%
+[21:29:49] [Server thread/INFO]: Time elapsed: 8795 ms
+[21:29:49] [Server thread/INFO]: Done (9.282s)! For help, type "help"
+[21:29:54] [Server thread/INFO]: moleMine[/127.0.0.1:50458] logged in with entity id 198 at (162.7631919596389, 72.0, -757.1473235685004)
+[21:29:54] [Server thread/INFO]: moleMine joined the game
+[21:30:19] [Server thread/INFO]: moleMine fell out of the world
+[21:30:19] [Server thread/INFO]: [moleMine: Killed moleMine]
+[21:30:28] [Server thread/INFO]: moleMine fell out of the world
+[21:30:28] [Server thread/INFO]: [moleMine: Killed moleMine]
+[21:30:35] [Server thread/INFO]: moleMine fell out of the world
+[21:30:35] [Server thread/INFO]: [moleMine: Killed moleMine]
+[21:31:07] [Server thread/INFO]: moleMine lost connection: Disconnected
+[21:31:07] [Server thread/INFO]: moleMine left the game
+[21:32:23] [Server thread/INFO]: moleMine[/127.0.0.1:50670] logged in with entity id 393 at (162.14817970113734, 72.5, -758.664122671629)
+[21:32:23] [Server thread/INFO]: moleMine joined the game
+[21:33:21] [Server thread/INFO]: moleMine fell out of the world
+[21:33:21] [Server thread/INFO]: [moleMine: Killed moleMine]
+[21:34:48] [Server thread/INFO]: moleMine lost connection: Disconnected
+[21:34:48] [Server thread/INFO]: moleMine left the game
